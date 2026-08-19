@@ -17,9 +17,9 @@
 }
 
 body[data-theme='pink'] {
-  --accent: #ff79b5;
-  --accent-dark: #e8659c;
-  --accent-rgb: 255, 121, 181;
+  --accent: #ffa3ce;
+  --accent-dark: #e68bb8;
+  --accent-rgb: 255, 163, 206;
 }
 
 body[data-theme='blue'] {
