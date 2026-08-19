@@ -4,7 +4,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma fresco, notas cítricas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0224.jpg"
   },
   {
@@ -12,7 +12,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma intenso, notas cítricas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0225.jpg"
   },
   {
@@ -20,7 +20,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma ligero, notas cítricas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0226.jpg"
   },
   {
@@ -28,7 +28,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma duradero, notas cítricas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0227.jpg"
   },
   {
@@ -36,7 +36,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma cautivador, notas cítricas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0228.jpg"
   },
   {
@@ -44,7 +44,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma elegante, notas cítricas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0229.jpg"
   },
   {
@@ -52,7 +52,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma envolvente, notas cítricas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0230.jpg"
   },
   {
@@ -60,7 +60,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma vibrante, notas cítricas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0231.jpg"
   },
   {
@@ -68,7 +68,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma sofisticado, notas cítricas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0231(1).jpg"
   },
   {
@@ -76,7 +76,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma clásico, notas cítricas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0232.jpg"
   },
   {
@@ -84,7 +84,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma fresco, notas amaderadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0233.jpg"
   },
   {
@@ -92,7 +92,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma intenso, notas amaderadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0234.jpg"
   },
   {
@@ -100,7 +100,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma ligero, notas amaderadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0235.jpg"
   },
   {
@@ -108,7 +108,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma duradero, notas amaderadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0236.jpg"
   },
   {
@@ -116,7 +116,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma cautivador, notas amaderadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0237.jpg"
   },
   {
@@ -124,7 +124,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma elegante, notas amaderadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0238.jpg"
   },
   {
@@ -132,7 +132,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma envolvente, notas amaderadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0239.jpg"
   },
   {
@@ -140,7 +140,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma vibrante, notas amaderadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0240.jpg"
   },
   {
@@ -148,7 +148,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma sofisticado, notas amaderadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0241.jpg"
   },
   {
@@ -156,7 +156,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma clásico, notas amaderadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0242.jpg"
   },
   {
@@ -164,7 +164,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma fresco, notas florales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0243.jpg"
   },
   {
@@ -172,7 +172,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma intenso, notas florales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0244.jpg"
   },
   {
@@ -180,7 +180,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma ligero, notas florales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0245.jpg"
   },
   {
@@ -188,7 +188,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma duradero, notas florales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0246.jpg"
   },
   {
@@ -196,7 +196,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma cautivador, notas florales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0247.jpg"
   },
   {
@@ -204,7 +204,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma elegante, notas florales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0248.jpg"
   },
   {
@@ -212,7 +212,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma envolvente, notas florales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0249.jpg"
   },
   {
@@ -220,7 +220,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma vibrante, notas florales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0250.jpg"
   },
   {
@@ -228,7 +228,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma sofisticado, notas florales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0251.jpg"
   },
   {
@@ -236,7 +236,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma clásico, notas florales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0252.jpg"
   },
   {
@@ -244,7 +244,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma fresco, notas dulces, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0253.jpg"
   },
   {
@@ -252,7 +252,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma intenso, notas dulces, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0254.jpg"
   },
   {
@@ -260,7 +260,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma ligero, notas dulces, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0255.jpg"
   },
   {
@@ -268,7 +268,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma duradero, notas dulces, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0256.jpg"
   },
   {
@@ -276,7 +276,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma cautivador, notas dulces, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0257.jpg"
   },
   {
@@ -284,7 +284,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma elegante, notas dulces, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0258.jpg"
   },
   {
@@ -292,7 +292,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma envolvente, notas dulces, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0259.jpg"
   },
   {
@@ -300,7 +300,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma vibrante, notas dulces, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0260.jpg"
   },
   {
@@ -308,7 +308,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma sofisticado, notas dulces, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0261.jpg"
   },
   {
@@ -316,7 +316,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma clásico, notas dulces, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0262.jpg"
   },
   {
@@ -324,7 +324,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma fresco, notas frescas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0263.jpg"
   },
   {
@@ -332,7 +332,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma intenso, notas frescas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0264.jpg"
   },
   {
@@ -340,7 +340,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma ligero, notas frescas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0265.jpg"
   },
   {
@@ -348,7 +348,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma duradero, notas frescas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0266.jpg"
   },
   {
@@ -356,7 +356,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma cautivador, notas frescas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0267.jpg"
   },
   {
@@ -364,7 +364,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma elegante, notas frescas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0268.jpg"
   },
   {
@@ -372,7 +372,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma envolvente, notas frescas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0269.jpg"
   },
   {
@@ -380,7 +380,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma vibrante, notas frescas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0270.jpg"
   },
   {
@@ -388,7 +388,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma sofisticado, notas frescas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0271.jpg"
   },
   {
@@ -396,7 +396,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma clásico, notas frescas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0272.jpg"
   },
   {
@@ -404,7 +404,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma fresco, notas especiadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0273.jpg"
   },
   {
@@ -412,7 +412,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma intenso, notas especiadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0274.jpg"
   },
   {
@@ -420,7 +420,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma ligero, notas especiadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0275.jpg"
   },
   {
@@ -428,7 +428,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma duradero, notas especiadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0276.jpg"
   },
   {
@@ -436,7 +436,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma cautivador, notas especiadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0277.jpg"
   },
   {
@@ -444,7 +444,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma elegante, notas especiadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0278.jpg"
   },
   {
@@ -452,7 +452,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma envolvente, notas especiadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0279.jpg"
   },
   {
@@ -460,7 +460,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma vibrante, notas especiadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0280.jpg"
   },
   {
@@ -468,7 +468,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma sofisticado, notas especiadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0281.jpg"
   },
   {
@@ -476,7 +476,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma clásico, notas especiadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0282.jpg"
   },
   {
@@ -484,7 +484,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma fresco, notas frutales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0283.jpg"
   },
   {
@@ -492,7 +492,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma intenso, notas frutales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0284.jpg"
   },
   {
@@ -500,7 +500,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma ligero, notas frutales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0285.jpg"
   },
   {
@@ -508,7 +508,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma duradero, notas frutales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0286.jpg"
   },
   {
@@ -516,7 +516,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma cautivador, notas frutales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0287.jpg"
   },
   {
@@ -524,7 +524,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma elegante, notas frutales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0288.jpg"
   },
   {
@@ -532,7 +532,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma envolvente, notas frutales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0289.jpg"
   },
   {
@@ -540,7 +540,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma vibrante, notas frutales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0290.jpg"
   },
   {
@@ -548,7 +548,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma sofisticado, notas frutales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0291.jpg"
   },
   {
@@ -556,7 +556,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma clásico, notas frutales, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0292.jpg"
   },
   {
@@ -564,7 +564,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma fresco, notas verdes, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0293.jpg"
   },
   {
@@ -572,7 +572,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma intenso, notas verdes, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0294.jpg"
   },
   {
@@ -580,7 +580,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma ligero, notas verdes, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0295.jpg"
   },
   {
@@ -588,7 +588,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma duradero, notas verdes, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0296.jpg"
   },
   {
@@ -596,7 +596,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma cautivador, notas verdes, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0297.jpg"
   },
   {
@@ -604,7 +604,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma elegante, notas verdes, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0298.jpg"
   },
   {
@@ -612,7 +612,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma envolvente, notas verdes, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0299.jpg"
   },
   {
@@ -620,7 +620,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma vibrante, notas verdes, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0300.jpg"
   },
   {
@@ -628,7 +628,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma sofisticado, notas verdes, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0301.jpg"
   },
   {
@@ -636,7 +636,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma clásico, notas verdes, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0302.jpg"
   },
   {
@@ -644,7 +644,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma fresco, notas marinas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0303.jpg"
   },
   {
@@ -652,7 +652,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma intenso, notas marinas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0304.jpg"
   },
   {
@@ -660,7 +660,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma ligero, notas marinas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0305.jpg"
   },
   {
@@ -668,7 +668,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma duradero, notas marinas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0306.jpg"
   },
   {
@@ -676,7 +676,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma cautivador, notas marinas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0307.jpg"
   },
   {
@@ -684,7 +684,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma elegante, notas marinas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0308.jpg"
   },
   {
@@ -692,7 +692,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma envolvente, notas marinas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0309.jpg"
   },
   {
@@ -700,7 +700,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma vibrante, notas marinas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0309(1).jpg"
   },
   {
@@ -708,7 +708,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma sofisticado, notas marinas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0310.jpg"
   },
   {
@@ -716,7 +716,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma clásico, notas marinas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0311.jpg"
   },
   {
@@ -724,7 +724,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma fresco, notas ahumadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0312.jpg"
   },
   {
@@ -732,7 +732,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma intenso, notas ahumadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0313.jpg"
   },
   {
@@ -740,7 +740,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma ligero, notas ahumadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0314.jpg"
   },
   {
@@ -748,7 +748,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma duradero, notas ahumadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0315.jpg"
   },
   {
@@ -756,7 +756,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma cautivador, notas ahumadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0316.jpg"
   },
   {
@@ -764,7 +764,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma elegante, notas ahumadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0317.jpg"
   },
   {
@@ -772,7 +772,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma envolvente, notas ahumadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0318.jpg"
   },
   {
@@ -780,7 +780,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma vibrante, notas ahumadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0319.jpg"
   },
   {
@@ -788,7 +788,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma sofisticado, notas ahumadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0320.jpg"
   },
   {
@@ -796,7 +796,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma clásico, notas ahumadas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0321.jpg"
   },
   {
@@ -804,7 +804,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma fresco, notas aromáticas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0322.jpg"
   },
   {
@@ -812,7 +812,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma intenso, notas aromáticas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0323.jpg"
   },
   {
@@ -820,7 +820,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma ligero, notas aromáticas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0324.jpg"
   },
   {
@@ -828,7 +828,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma duradero, notas aromáticas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0325.jpg"
   },
   {
@@ -836,7 +836,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma cautivador, notas aromáticas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0326.jpg"
   },
   {
@@ -844,7 +844,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma elegante, notas aromáticas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0327.jpg"
   },
   {
@@ -852,7 +852,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma envolvente, notas aromáticas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0328.jpg"
   },
   {
@@ -860,7 +860,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma vibrante, notas aromáticas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0329.jpg"
   },
   {
@@ -868,7 +868,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma sofisticado, notas aromáticas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0330.jpg"
   },
   {
@@ -876,7 +876,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma clásico, notas aromáticas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0331.jpg"
   },
   {
@@ -884,7 +884,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma fresco, notas almizcladas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0332.jpg"
   },
   {
@@ -892,7 +892,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma intenso, notas almizcladas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0333.jpg"
   },
   {
@@ -900,7 +900,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Hombre",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma ligero, notas almizcladas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0334(1).jpg"
   },
   {
@@ -908,7 +908,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Colonias-Hombre",
     "gender": "Mujer",
-    "description": "Colonia para hombre con aroma duradero, perfecta para el dia a dia o una ocasion especial.",
+    "description": "Colonia con aroma duradero, notas almizcladas, ideal para el día a día.",
     "image": "Colonias-Hombre/IMG-20260817-WA0335.jpg"
   },
   {
@@ -916,7 +916,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño clásico y materiales resistentes, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0124.jpg"
   },
   {
@@ -924,7 +924,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño deportivo y materiales resistentes, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0125.jpg"
   },
   {
@@ -932,7 +932,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño urbano y materiales resistentes, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0126.jpg"
   },
   {
@@ -940,7 +940,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño moderno y materiales resistentes, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0127.jpg"
   },
   {
@@ -948,7 +948,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño casual y materiales resistentes, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0128.jpg"
   },
   {
@@ -956,7 +956,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño elegante y materiales resistentes, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0129.jpg"
   },
   {
@@ -964,7 +964,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño versátil y materiales resistentes, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0130.jpg"
   },
   {
@@ -972,7 +972,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño resistente y materiales resistentes, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0131.jpg"
   },
   {
@@ -980,7 +980,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño sencillo y materiales resistentes, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0132.jpg"
   },
   {
@@ -988,7 +988,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño cómodo y materiales resistentes, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0133.jpg"
   },
   {
@@ -996,7 +996,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño juvenil y materiales resistentes, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0134.jpg"
   },
   {
@@ -1004,7 +1004,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño llamativo y materiales resistentes, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0135.jpg"
   },
   {
@@ -1012,7 +1012,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño clásico y materiales transpirables, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0136.jpg"
   },
   {
@@ -1020,7 +1020,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño deportivo y materiales transpirables, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0137.jpg"
   },
   {
@@ -1028,7 +1028,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño urbano y materiales transpirables, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0138.jpg"
   },
   {
@@ -1036,7 +1036,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño moderno y materiales transpirables, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0139.jpg"
   },
   {
@@ -1044,7 +1044,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño casual y materiales transpirables, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0140.jpg"
   },
   {
@@ -1052,7 +1052,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño elegante y materiales transpirables, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0141.jpg"
   },
   {
@@ -1060,7 +1060,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño versátil y materiales transpirables, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0142.jpg"
   },
   {
@@ -1068,7 +1068,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño resistente y materiales transpirables, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0143.jpg"
   },
   {
@@ -1076,7 +1076,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño sencillo y materiales transpirables, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0144.jpg"
   },
   {
@@ -1084,7 +1084,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño cómodo y materiales transpirables, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0145.jpg"
   },
   {
@@ -1092,7 +1092,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño juvenil y materiales transpirables, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0146.jpg"
   },
   {
@@ -1100,7 +1100,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño llamativo y materiales transpirables, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0147.jpg"
   },
   {
@@ -1108,7 +1108,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño clásico y materiales de buena calidad, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0148.jpg"
   },
   {
@@ -1116,7 +1116,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño deportivo y materiales de buena calidad, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0149.jpg"
   },
   {
@@ -1124,7 +1124,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño urbano y materiales de buena calidad, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0150.jpg"
   },
   {
@@ -1132,7 +1132,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño moderno y materiales de buena calidad, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0151.jpg"
   },
   {
@@ -1140,7 +1140,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño casual y materiales de buena calidad, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0152.jpg"
   },
   {
@@ -1148,7 +1148,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño elegante y materiales de buena calidad, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0153.jpg"
   },
   {
@@ -1156,7 +1156,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño versátil y materiales de buena calidad, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0154.jpg"
   },
   {
@@ -1164,7 +1164,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño resistente y materiales de buena calidad, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0155.jpg"
   },
   {
@@ -1172,7 +1172,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño sencillo y materiales de buena calidad, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0156.jpg"
   },
   {
@@ -1180,7 +1180,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño cómodo y materiales de buena calidad, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0157.jpg"
   },
   {
@@ -1188,7 +1188,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño juvenil y materiales de buena calidad, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0158.jpg"
   },
   {
@@ -1196,7 +1196,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño llamativo y materiales de buena calidad, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0159.jpg"
   },
   {
@@ -1204,7 +1204,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño clásico y materiales flexibles, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0160.jpg"
   },
   {
@@ -1212,7 +1212,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño deportivo y materiales flexibles, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0161.jpg"
   },
   {
@@ -1220,7 +1220,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño urbano y materiales flexibles, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0162.jpg"
   },
   {
@@ -1228,7 +1228,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño moderno y materiales flexibles, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0163.jpg"
   },
   {
@@ -1236,7 +1236,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño casual y materiales flexibles, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0164.jpg"
   },
   {
@@ -1244,7 +1244,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño elegante y materiales flexibles, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0165.jpg"
   },
   {
@@ -1252,7 +1252,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño versátil y materiales flexibles, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0166.jpg"
   },
   {
@@ -1260,7 +1260,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño resistente y materiales flexibles, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0167.jpg"
   },
   {
@@ -1268,7 +1268,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño sencillo y materiales flexibles, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0168.jpg"
   },
   {
@@ -1276,7 +1276,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño cómodo y materiales flexibles, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0169.jpg"
   },
   {
@@ -1284,7 +1284,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño juvenil y materiales flexibles, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0170.jpg"
   },
   {
@@ -1292,7 +1292,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño llamativo y materiales flexibles, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0171.jpg"
   },
   {
@@ -1300,7 +1300,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño clásico y materiales duraderos, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0172.jpg"
   },
   {
@@ -1308,7 +1308,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño deportivo y materiales duraderos, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0173.jpg"
   },
   {
@@ -1316,7 +1316,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño urbano y materiales duraderos, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0174.jpg"
   },
   {
@@ -1324,7 +1324,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño moderno y materiales duraderos, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0175.jpg"
   },
   {
@@ -1332,7 +1332,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño casual y materiales duraderos, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0176.jpg"
   },
   {
@@ -1340,7 +1340,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño elegante y materiales duraderos, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0177.jpg"
   },
   {
@@ -1348,7 +1348,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño versátil y materiales duraderos, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0178.jpg"
   },
   {
@@ -1356,7 +1356,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño resistente y materiales duraderos, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0179.jpg"
   },
   {
@@ -1364,7 +1364,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño sencillo y materiales duraderos, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0180.jpg"
   },
   {
@@ -1372,7 +1372,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño cómodo y materiales duraderos, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0181.jpg"
   },
   {
@@ -1380,7 +1380,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño juvenil y materiales duraderos, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0182.jpg"
   },
   {
@@ -1388,7 +1388,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño llamativo y materiales duraderos, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0183.jpg"
   },
   {
@@ -1396,7 +1396,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño clásico y materiales suaves, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0184.jpg"
   },
   {
@@ -1404,7 +1404,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño deportivo y materiales suaves, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0185.jpg"
   },
   {
@@ -1412,7 +1412,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño urbano y materiales suaves, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0186.jpg"
   },
   {
@@ -1420,7 +1420,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño moderno y materiales suaves, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0187.jpg"
   },
   {
@@ -1428,7 +1428,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño casual y materiales suaves, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0188.jpg"
   },
   {
@@ -1436,7 +1436,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño elegante y materiales suaves, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0189.jpg"
   },
   {
@@ -1444,7 +1444,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño versátil y materiales suaves, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0190.jpg"
   },
   {
@@ -1452,7 +1452,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño resistente y materiales suaves, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0191.jpg"
   },
   {
@@ -1460,7 +1460,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño sencillo y materiales suaves, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0192.jpg"
   },
   {
@@ -1468,7 +1468,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño cómodo y materiales suaves, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0193.jpg"
   },
   {
@@ -1476,7 +1476,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño juvenil y materiales suaves, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0194.jpg"
   },
   {
@@ -1484,7 +1484,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño llamativo y materiales suaves, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0195.jpg"
   },
   {
@@ -1492,7 +1492,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño clásico y materiales ligeros, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0196.jpg"
   },
   {
@@ -1500,7 +1500,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño deportivo y materiales ligeros, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0197.jpg"
   },
   {
@@ -1508,7 +1508,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño urbano y materiales ligeros, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0198.jpg"
   },
   {
@@ -1516,7 +1516,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño moderno y materiales ligeros, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0199.jpg"
   },
   {
@@ -1524,7 +1524,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño casual y materiales ligeros, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0200.jpg"
   },
   {
@@ -1532,7 +1532,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño elegante y materiales ligeros, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0201.jpg"
   },
   {
@@ -1540,7 +1540,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño versátil y materiales ligeros, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0202.jpg"
   },
   {
@@ -1548,7 +1548,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño resistente y materiales ligeros, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0203.jpg"
   },
   {
@@ -1556,7 +1556,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño sencillo y materiales ligeros, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0204.jpg"
   },
   {
@@ -1564,7 +1564,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño cómodo y materiales ligeros, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0205.jpg"
   },
   {
@@ -1572,7 +1572,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño juvenil y materiales ligeros, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0206.jpg"
   },
   {
@@ -1580,7 +1580,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño llamativo y materiales ligeros, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0207.jpg"
   },
   {
@@ -1588,7 +1588,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño clásico y materiales reforzados, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0208.jpg"
   },
   {
@@ -1596,7 +1596,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño deportivo y materiales reforzados, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0209.jpg"
   },
   {
@@ -1604,7 +1604,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño urbano y materiales reforzados, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0210.jpg"
   },
   {
@@ -1612,7 +1612,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño moderno y materiales reforzados, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0211.jpg"
   },
   {
@@ -1620,7 +1620,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño casual y materiales reforzados, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0212.jpg"
   },
   {
@@ -1628,7 +1628,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño elegante y materiales reforzados, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0213.jpg"
   },
   {
@@ -1636,7 +1636,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño versátil y materiales reforzados, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0214.jpg"
   },
   {
@@ -1644,7 +1644,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño resistente y materiales reforzados, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0215.jpg"
   },
   {
@@ -1652,7 +1652,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño sencillo y materiales reforzados, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0216.jpg"
   },
   {
@@ -1660,7 +1660,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño cómodo y materiales reforzados, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0217.jpg"
   },
   {
@@ -1668,7 +1668,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño juvenil y materiales reforzados, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0218.jpg"
   },
   {
@@ -1676,7 +1676,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño llamativo y materiales reforzados, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0219.jpg"
   },
   {
@@ -1684,7 +1684,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño clásico y materiales resistentes, perfecto para el trabajo.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0220.jpg"
   },
   {
@@ -1692,7 +1692,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño deportivo y materiales resistentes, perfecto para el trabajo.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0221.jpg"
   },
   {
@@ -1700,7 +1700,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado para hombre, comodo y con estilo, ideal para cualquier ocasion.",
+    "description": "Calzado con diseño urbano y materiales resistentes, perfecto para el trabajo.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0222.jpg"
   },
   {
@@ -1708,7 +1708,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño moderno, ideal con tacón, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0080.jpg"
   },
   {
@@ -1716,7 +1716,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño elegante, ideal con tacón, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0081.jpg"
   },
   {
@@ -1724,7 +1724,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño cómodo, ideal con tacón, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0082.jpg"
   },
   {
@@ -1732,7 +1732,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño delicado, ideal con tacón, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0083.jpg"
   },
   {
@@ -1740,7 +1740,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño femenino, ideal con tacón, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0084.jpg"
   },
   {
@@ -1748,7 +1748,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño casual, ideal con tacón, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0085.jpg"
   },
   {
@@ -1756,7 +1756,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño versátil, ideal con tacón, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0086.jpg"
   },
   {
@@ -1764,7 +1764,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño sofisticado, ideal con tacón, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0087.jpg"
   },
   {
@@ -1772,7 +1772,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño práctico, ideal con tacón, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0088.jpg"
   },
   {
@@ -1780,7 +1780,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño juvenil, ideal con tacón, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0089.jpg"
   },
   {
@@ -1788,7 +1788,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño moderno, con plataforma, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0090.jpg"
   },
   {
@@ -1796,7 +1796,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño elegante, con plataforma, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0091.jpg"
   },
   {
@@ -1804,7 +1804,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño cómodo, con plataforma, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0092.jpg"
   },
   {
@@ -1812,7 +1812,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño delicado, con plataforma, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0093.jpg"
   },
   {
@@ -1820,7 +1820,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño femenino, con plataforma, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0093(1).jpg"
   },
   {
@@ -1828,7 +1828,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño casual, con plataforma, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0094.jpg"
   },
   {
@@ -1836,7 +1836,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño versátil, con plataforma, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0095.jpg"
   },
   {
@@ -1844,7 +1844,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño sofisticado, con plataforma, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0096.jpg"
   },
   {
@@ -1852,7 +1852,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño práctico, con plataforma, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0096(1).jpg"
   },
   {
@@ -1860,7 +1860,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño juvenil, con plataforma, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0097.jpg"
   },
   {
@@ -1868,7 +1868,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño moderno, estilo plano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0098.jpg"
   },
   {
@@ -1876,7 +1876,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño elegante, estilo plano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0098(1).jpg"
   },
   {
@@ -1884,7 +1884,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño cómodo, estilo plano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0099.jpg"
   },
   {
@@ -1892,7 +1892,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño delicado, estilo plano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0100.jpg"
   },
   {
@@ -1900,7 +1900,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño femenino, estilo plano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0100(1).jpg"
   },
   {
@@ -1908,7 +1908,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño casual, estilo plano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0101.jpg"
   },
   {
@@ -1916,7 +1916,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño versátil, estilo plano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0101(1).jpg"
   },
   {
@@ -1924,7 +1924,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño sofisticado, estilo plano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0102.jpg"
   },
   {
@@ -1932,7 +1932,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño práctico, estilo plano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0102(1).jpg"
   },
   {
@@ -1940,7 +1940,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño juvenil, estilo plano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0103.jpg"
   },
   {
@@ -1948,7 +1948,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño moderno, tipo bota, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0103(1).jpg"
   },
   {
@@ -1956,7 +1956,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño elegante, tipo bota, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0104.jpg"
   },
   {
@@ -1964,7 +1964,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño cómodo, tipo bota, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0105.jpg"
   },
   {
@@ -1972,7 +1972,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño delicado, tipo bota, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0105(1).jpg"
   },
   {
@@ -1980,7 +1980,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño femenino, tipo bota, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0106.jpg"
   },
   {
@@ -1988,7 +1988,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño casual, tipo bota, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0106(1).jpg"
   },
   {
@@ -1996,7 +1996,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño versátil, tipo bota, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0107.jpg"
   },
   {
@@ -2004,7 +2004,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño sofisticado, tipo bota, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0107(1).jpg"
   },
   {
@@ -2012,7 +2012,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño práctico, tipo bota, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0108.jpg"
   },
   {
@@ -2020,7 +2020,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño juvenil, tipo bota, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0108(1).jpg"
   },
   {
@@ -2028,7 +2028,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño moderno, estilo deportivo, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0109.jpg"
   },
   {
@@ -2036,7 +2036,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño elegante, estilo deportivo, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0109(1).jpg"
   },
   {
@@ -2044,7 +2044,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño cómodo, estilo deportivo, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0110.jpg"
   },
   {
@@ -2052,7 +2052,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño delicado, estilo deportivo, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0110(1).jpg"
   },
   {
@@ -2060,7 +2060,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño femenino, estilo deportivo, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0111.jpg"
   },
   {
@@ -2068,7 +2068,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño casual, estilo deportivo, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0111(1).jpg"
   },
   {
@@ -2076,7 +2076,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño versátil, estilo deportivo, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0112.jpg"
   },
   {
@@ -2084,7 +2084,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño sofisticado, estilo deportivo, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0112(1).jpg"
   },
   {
@@ -2092,7 +2092,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño práctico, estilo deportivo, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0113.jpg"
   },
   {
@@ -2100,7 +2100,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño juvenil, estilo deportivo, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0113(1).jpg"
   },
   {
@@ -2108,7 +2108,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño moderno, tipo sandalia, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0114.jpg"
   },
   {
@@ -2116,7 +2116,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño elegante, tipo sandalia, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0114(1).jpg"
   },
   {
@@ -2124,7 +2124,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño cómodo, tipo sandalia, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0115.jpg"
   },
   {
@@ -2132,7 +2132,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño delicado, tipo sandalia, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0115(1).jpg"
   },
   {
@@ -2140,7 +2140,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño femenino, tipo sandalia, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0116.jpg"
   },
   {
@@ -2148,7 +2148,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño casual, tipo sandalia, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0116(1).jpg"
   },
   {
@@ -2156,7 +2156,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño versátil, tipo sandalia, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0117.jpg"
   },
   {
@@ -2164,7 +2164,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño sofisticado, tipo sandalia, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0117(1).jpg"
   },
   {
@@ -2172,7 +2172,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño práctico, tipo sandalia, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0118.jpg"
   },
   {
@@ -2180,7 +2180,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño juvenil, tipo sandalia, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0118(1).jpg"
   },
   {
@@ -2188,7 +2188,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño moderno, estilo urbano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0119.jpg"
   },
   {
@@ -2196,7 +2196,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño elegante, estilo urbano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0119(1).jpg"
   },
   {
@@ -2204,7 +2204,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño cómodo, estilo urbano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0120.jpg"
   },
   {
@@ -2212,7 +2212,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño delicado, estilo urbano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0120(1).jpg"
   },
   {
@@ -2220,7 +2220,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño femenino, estilo urbano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0121.jpg"
   },
   {
@@ -2228,7 +2228,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño casual, estilo urbano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0121(1).jpg"
   },
   {
@@ -2236,7 +2236,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño versátil, estilo urbano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0122.jpg"
   },
   {
@@ -2244,7 +2244,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño sofisticado, estilo urbano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0122(1).jpg"
   },
   {
@@ -2252,7 +2252,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño práctico, estilo urbano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0123.jpg"
   },
   {
@@ -2260,7 +2260,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado para mujer, diseno moderno y comodo para acompanarte en cada paso.",
+    "description": "Calzado con diseño juvenil, estilo urbano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0123(1).jpg"
   }
 ];
