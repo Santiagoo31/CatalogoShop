@@ -110,7 +110,9 @@ function openCategory(cat) {
 function scrollToProducts() {
   const el = document.getElementById('product-grid');
   if (!el) return;
-  const top = el.getBoundingClientRect().top + window.scrollY;
+  const nav = document.querySelector('.navbar');
+  const offset = nav ? nav.offsetHeight : 64;
+  const top = el.getBoundingClientRect().top + window.scrollY - offset;
   window.scrollTo(0, Math.max(top, 0));
 }
 
