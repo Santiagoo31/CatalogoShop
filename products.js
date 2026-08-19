@@ -1708,7 +1708,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño moderno, ideal con tacón, perfecto para el día a día.",
+    "description": "Tenis moderno, con suela resistente, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0080.jpg"
   },
   {
@@ -1716,7 +1716,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño elegante, ideal con tacón, perfecto para el día a día.",
+    "description": "Par de tenis elegante: cordones reforzados y fresco incluso en días calurosos.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0081.jpg"
   },
   {
@@ -1724,7 +1724,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño cómodo, ideal con tacón, perfecto para el día a día.",
+    "description": "Tenis con puntadas reforzadas, cómodo y listo para la calle o el gym.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0082.jpg"
   },
   {
@@ -1732,7 +1732,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño delicado, ideal con tacón, perfecto para el día a día.",
+    "description": "Casual tenis con detalles en relieve, ideal para salir a cualquier hora.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0083.jpg"
   },
   {
@@ -1740,7 +1740,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño femenino, ideal con tacón, perfecto para el día a día.",
+    "description": "Tenis versátil, con combinación de colores, comodidad para toda la jornada.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0084.jpg"
   },
   {
@@ -1748,7 +1748,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño casual, ideal con tacón, perfecto para el día a día.",
+    "description": "Par de tenis juvenil: plantilla acolchada y estilo y confort en cada paso.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0085.jpg"
   },
   {
@@ -1756,7 +1756,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño versátil, ideal con tacón, perfecto para el día a día.",
+    "description": "Tenis con acabados en contraste, deportivo y aguanta el uso diario sin problema.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0086.jpg"
   },
   {
@@ -1764,7 +1764,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño sofisticado, ideal con tacón, perfecto para el día a día.",
+    "description": "Urbano tenis con silueta limpia y definida, ideal para caminar todo el día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0087.jpg"
   },
   {
@@ -1772,7 +1772,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño práctico, ideal con tacón, perfecto para el día a día.",
+    "description": "Tenis práctico, con costuras a la vista, combinable con cualquier look.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0088.jpg"
   },
   {
@@ -1780,7 +1780,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño juvenil, ideal con tacón, perfecto para el día a día.",
+    "description": "Par de tenis ligero: tela suave al tacto y se adapta a cualquier outfit.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0089.jpg"
   },
   {
@@ -1788,7 +1788,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño moderno, con plataforma, perfecto para el día a día.",
+    "description": "Tenis con corte en malla transpirable, fresco y para pisar fuerte todo el día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0090.jpg"
   },
   {
@@ -1796,7 +1796,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño elegante, con plataforma, perfecto para el día a día.",
+    "description": "Resistente tenis con material transpirable, estilo urbano para todos los días.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0091.jpg"
   },
   {
@@ -1804,7 +1804,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño cómodo, con plataforma, perfecto para el día a día.",
+    "description": "Tenis moderno, con toques de color llamativo, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0092.jpg"
   },
   {
@@ -1812,7 +1812,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño delicado, con plataforma, perfecto para el día a día.",
+    "description": "Par de tenis elegante: tope trasero reforzado y fresco incluso en días calurosos.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0093.jpg"
   },
   {
@@ -1820,7 +1820,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño femenino, con plataforma, perfecto para el día a día.",
+    "description": "Tenis con suela resistente, cómodo y listo para la calle o el gym.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0093(1).jpg"
   },
   {
@@ -1828,7 +1828,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño casual, con plataforma, perfecto para el día a día.",
+    "description": "Casual tenis con cordones reforzados, ideal para salir a cualquier hora.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0094.jpg"
   },
   {
@@ -1836,7 +1836,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño versátil, con plataforma, perfecto para el día a día.",
+    "description": "Tenis versátil, con puntadas reforzadas, comodidad para toda la jornada.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0095.jpg"
   },
   {
@@ -1844,7 +1844,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño sofisticado, con plataforma, perfecto para el día a día.",
+    "description": "Par de tenis juvenil: detalles en relieve y estilo y confort en cada paso.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0096.jpg"
   },
   {
@@ -1852,7 +1852,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño práctico, con plataforma, perfecto para el día a día.",
+    "description": "Tenis con combinación de colores, deportivo y aguanta el uso diario sin problema.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0096(1).jpg"
   },
   {
@@ -1860,7 +1860,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño juvenil, con plataforma, perfecto para el día a día.",
+    "description": "Urbano tenis con plantilla acolchada, ideal para caminar todo el día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0097.jpg"
   },
   {
@@ -1868,7 +1868,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño moderno, estilo plano, perfecto para el día a día.",
+    "description": "Tenis práctico, con acabados en contraste, combinable con cualquier look.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0098.jpg"
   },
   {
@@ -1876,7 +1876,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño elegante, estilo plano, perfecto para el día a día.",
+    "description": "Par de tenis ligero: silueta limpia y definida y se adapta a cualquier outfit.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0098(1).jpg"
   },
   {
@@ -1884,7 +1884,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño cómodo, estilo plano, perfecto para el día a día.",
+    "description": "Tenis con costuras a la vista, fresco y para pisar fuerte todo el día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0099.jpg"
   },
   {
@@ -1892,7 +1892,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño delicado, estilo plano, perfecto para el día a día.",
+    "description": "Resistente tenis con tela suave al tacto, estilo urbano para todos los días.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0100.jpg"
   },
   {
@@ -1900,7 +1900,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño femenino, estilo plano, perfecto para el día a día.",
+    "description": "Tenis moderno, con corte en malla transpirable, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0100(1).jpg"
   },
   {
@@ -1908,7 +1908,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño casual, estilo plano, perfecto para el día a día.",
+    "description": "Par de tenis elegante: material transpirable y fresco incluso en días calurosos.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0101.jpg"
   },
   {
@@ -1916,7 +1916,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño versátil, estilo plano, perfecto para el día a día.",
+    "description": "Tenis con toques de color llamativo, cómodo y listo para la calle o el gym.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0101(1).jpg"
   },
   {
@@ -1924,7 +1924,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño sofisticado, estilo plano, perfecto para el día a día.",
+    "description": "Casual tenis con tope trasero reforzado, ideal para salir a cualquier hora.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0102.jpg"
   },
   {
@@ -1932,7 +1932,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño práctico, estilo plano, perfecto para el día a día.",
+    "description": "Tenis versátil, con suela resistente, comodidad para toda la jornada.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0102(1).jpg"
   },
   {
@@ -1940,7 +1940,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño juvenil, estilo plano, perfecto para el día a día.",
+    "description": "Par de tenis juvenil: cordones reforzados y estilo y confort en cada paso.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0103.jpg"
   },
   {
@@ -1948,7 +1948,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño moderno, tipo bota, perfecto para el día a día.",
+    "description": "Tenis con puntadas reforzadas, deportivo y aguanta el uso diario sin problema.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0103(1).jpg"
   },
   {
@@ -1956,7 +1956,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño elegante, tipo bota, perfecto para el día a día.",
+    "description": "Urbano tenis con detalles en relieve, ideal para caminar todo el día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0104.jpg"
   },
   {
@@ -1964,7 +1964,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño cómodo, tipo bota, perfecto para el día a día.",
+    "description": "Tenis práctico, con combinación de colores, combinable con cualquier look.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0105.jpg"
   },
   {
@@ -1972,7 +1972,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño delicado, tipo bota, perfecto para el día a día.",
+    "description": "Par de tenis ligero: plantilla acolchada y se adapta a cualquier outfit.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0105(1).jpg"
   },
   {
@@ -1980,7 +1980,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño femenino, tipo bota, perfecto para el día a día.",
+    "description": "Tenis con acabados en contraste, fresco y para pisar fuerte todo el día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0106.jpg"
   },
   {
@@ -1988,7 +1988,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño casual, tipo bota, perfecto para el día a día.",
+    "description": "Resistente tenis con silueta limpia y definida, estilo urbano para todos los días.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0106(1).jpg"
   },
   {
@@ -1996,7 +1996,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño versátil, tipo bota, perfecto para el día a día.",
+    "description": "Tenis moderno, con costuras a la vista, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0107.jpg"
   },
   {
@@ -2004,7 +2004,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño sofisticado, tipo bota, perfecto para el día a día.",
+    "description": "Par de tenis elegante: tela suave al tacto y fresco incluso en días calurosos.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0107(1).jpg"
   },
   {
@@ -2012,7 +2012,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño práctico, tipo bota, perfecto para el día a día.",
+    "description": "Tenis con corte en malla transpirable, cómodo y listo para la calle o el gym.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0108.jpg"
   },
   {
@@ -2020,7 +2020,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño juvenil, tipo bota, perfecto para el día a día.",
+    "description": "Casual tenis con material transpirable, ideal para salir a cualquier hora.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0108(1).jpg"
   },
   {
@@ -2028,7 +2028,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño moderno, estilo deportivo, perfecto para el día a día.",
+    "description": "Tenis versátil, con toques de color llamativo, comodidad para toda la jornada.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0109.jpg"
   },
   {
@@ -2036,7 +2036,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño elegante, estilo deportivo, perfecto para el día a día.",
+    "description": "Par de tenis juvenil: tope trasero reforzado y estilo y confort en cada paso.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0109(1).jpg"
   },
   {
@@ -2044,7 +2044,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño cómodo, estilo deportivo, perfecto para el día a día.",
+    "description": "Tenis con suela resistente, deportivo y aguanta el uso diario sin problema.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0110.jpg"
   },
   {
@@ -2052,7 +2052,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño delicado, estilo deportivo, perfecto para el día a día.",
+    "description": "Urbano tenis con cordones reforzados, ideal para caminar todo el día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0110(1).jpg"
   },
   {
@@ -2060,7 +2060,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño femenino, estilo deportivo, perfecto para el día a día.",
+    "description": "Tenis práctico, con puntadas reforzadas, combinable con cualquier look.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0111.jpg"
   },
   {
@@ -2068,7 +2068,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño casual, estilo deportivo, perfecto para el día a día.",
+    "description": "Par de tenis ligero: detalles en relieve y se adapta a cualquier outfit.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0111(1).jpg"
   },
   {
@@ -2076,7 +2076,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño versátil, estilo deportivo, perfecto para el día a día.",
+    "description": "Tenis con combinación de colores, fresco y para pisar fuerte todo el día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0112.jpg"
   },
   {
@@ -2084,7 +2084,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño sofisticado, estilo deportivo, perfecto para el día a día.",
+    "description": "Resistente tenis con plantilla acolchada, estilo urbano para todos los días.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0112(1).jpg"
   },
   {
@@ -2092,7 +2092,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño práctico, estilo deportivo, perfecto para el día a día.",
+    "description": "Tenis moderno, con acabados en contraste, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0113.jpg"
   },
   {
@@ -2100,7 +2100,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño juvenil, estilo deportivo, perfecto para el día a día.",
+    "description": "Par de tenis elegante: silueta limpia y definida y fresco incluso en días calurosos.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0113(1).jpg"
   },
   {
@@ -2108,7 +2108,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño moderno, tipo sandalia, perfecto para el día a día.",
+    "description": "Tenis con costuras a la vista, cómodo y listo para la calle o el gym.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0114.jpg"
   },
   {
@@ -2116,7 +2116,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño elegante, tipo sandalia, perfecto para el día a día.",
+    "description": "Casual tenis con tela suave al tacto, ideal para salir a cualquier hora.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0114(1).jpg"
   },
   {
@@ -2124,7 +2124,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño cómodo, tipo sandalia, perfecto para el día a día.",
+    "description": "Tenis versátil, con corte en malla transpirable, comodidad para toda la jornada.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0115.jpg"
   },
   {
@@ -2132,7 +2132,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño delicado, tipo sandalia, perfecto para el día a día.",
+    "description": "Par de tenis juvenil: material transpirable y estilo y confort en cada paso.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0115(1).jpg"
   },
   {
@@ -2140,7 +2140,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño femenino, tipo sandalia, perfecto para el día a día.",
+    "description": "Tenis con toques de color llamativo, deportivo y aguanta el uso diario sin problema.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0116.jpg"
   },
   {
@@ -2148,7 +2148,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño casual, tipo sandalia, perfecto para el día a día.",
+    "description": "Urbano tenis con tope trasero reforzado, ideal para caminar todo el día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0116(1).jpg"
   },
   {
@@ -2156,7 +2156,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño versátil, tipo sandalia, perfecto para el día a día.",
+    "description": "Tenis práctico, con suela resistente, combinable con cualquier look.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0117.jpg"
   },
   {
@@ -2164,7 +2164,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño sofisticado, tipo sandalia, perfecto para el día a día.",
+    "description": "Par de tenis ligero: cordones reforzados y se adapta a cualquier outfit.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0117(1).jpg"
   },
   {
@@ -2172,7 +2172,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño práctico, tipo sandalia, perfecto para el día a día.",
+    "description": "Tenis con puntadas reforzadas, fresco y para pisar fuerte todo el día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0118.jpg"
   },
   {
@@ -2180,7 +2180,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño juvenil, tipo sandalia, perfecto para el día a día.",
+    "description": "Resistente tenis con detalles en relieve, estilo urbano para todos los días.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0118(1).jpg"
   },
   {
@@ -2188,7 +2188,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño moderno, estilo urbano, perfecto para el día a día.",
+    "description": "Tenis moderno, con combinación de colores, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0119.jpg"
   },
   {
@@ -2196,7 +2196,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño elegante, estilo urbano, perfecto para el día a día.",
+    "description": "Par de tenis elegante: plantilla acolchada y fresco incluso en días calurosos.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0119(1).jpg"
   },
   {
@@ -2204,7 +2204,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño cómodo, estilo urbano, perfecto para el día a día.",
+    "description": "Tenis con acabados en contraste, cómodo y listo para la calle o el gym.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0120.jpg"
   },
   {
@@ -2212,7 +2212,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño delicado, estilo urbano, perfecto para el día a día.",
+    "description": "Casual tenis con silueta limpia y definida, ideal para salir a cualquier hora.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0120(1).jpg"
   },
   {
@@ -2220,7 +2220,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño femenino, estilo urbano, perfecto para el día a día.",
+    "description": "Tenis versátil, con costuras a la vista, comodidad para toda la jornada.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0121.jpg"
   },
   {
@@ -2228,7 +2228,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño casual, estilo urbano, perfecto para el día a día.",
+    "description": "Par de tenis juvenil: tela suave al tacto y estilo y confort en cada paso.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0121(1).jpg"
   },
   {
@@ -2236,7 +2236,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño versátil, estilo urbano, perfecto para el día a día.",
+    "description": "Tenis con corte en malla transpirable, deportivo y aguanta el uso diario sin problema.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0122.jpg"
   },
   {
@@ -2244,7 +2244,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño sofisticado, estilo urbano, perfecto para el día a día.",
+    "description": "Urbano tenis con material transpirable, ideal para caminar todo el día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0122(1).jpg"
   },
   {
@@ -2252,7 +2252,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño práctico, estilo urbano, perfecto para el día a día.",
+    "description": "Tenis práctico, con toques de color llamativo, combinable con cualquier look.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0123.jpg"
   },
   {
@@ -2260,7 +2260,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Calzado con diseño juvenil, estilo urbano, perfecto para el día a día.",
+    "description": "Par de tenis ligero: tope trasero reforzado y se adapta a cualquier outfit.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0123(1).jpg"
   }
 ];
