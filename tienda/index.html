@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catalogo Productos</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Space+Grotesk:wght@400;500;700&family=Rubik+Spray+Paint&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>">
+</head>
+<body>
+
+  <header class="navbar">
+    <div class="navbar-inner">
+      <a href="#inicio" class="brand">
+        <span class="brand-logo">S.O</span>
+        <span class="brand-name">SebastianOrozco <em>Shop</em></span>
+      </a>
+      <nav class="nav-links">
+        <a href="#inicio">Inicio</a>
+        <a href="#catalogo">Catálogo</a>
+        <a href="#contacto">Contacto</a>
+      </nav>
+      <a href="#catalogo" class="btn btn-primary btn-sm navbar-cta">Ver catálogo</a>
+    </div>
+  </header>
+
+  <section id="inicio" class="hero">
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <h1>El flow <span class="gradient-text">no se compra</span>, se porta</h1>
+      <p>Colonias y zapatos con pura actitud. Míralos, elige y pide directo por WhatsApp sin vueltas.</p>
+      <div class="hero-actions">
+        <a href="#catalogo" class="btn btn-primary">Ver catálogo</a>
+        <a href="https://wa.me/573142640913?text=Hola!%20Quiero%20informaci%C3%B3n%20sobre%20los%20productos%20de%20la%20tienda." target="_blank" rel="noopener" class="btn btn-whatsapp">WhatsApp</a>
+      </div>
+    </div>
+    <div class="hero-stats">
+      <div class="stat"><strong id="stat-products">283</strong><span>Productos</span></div>
+      <div class="stat"><strong>3</strong><span>Categorías</span></div>
+      <div class="stat"><strong>100%</strong><span>Atención directa</span></div>
+    </div>
+  </section>
+
+  <div class="marquee" aria-hidden="true">
+    <div class="marquee-track">
+      <span>🔥 NUEVA TEMPORADA</span><span>⚡ PIDE DIRECTO POR WHATSAPP</span><span>🏁 ENVÍOS A TODA COLOMBIA</span><span>👟 PURA CALLE</span><span>🔥 NUEVA TEMPORADA</span><span>⚡ PIDE DIRECTO POR WHATSAPP</span><span>🏁 ENVÍOS A TODA COLOMBIA</span><span>👟 PURA CALLE</span>
+    </div>
+  </div>
+
+  <section class="features">
+    <div class="feature">
+      <span class="feature-icon">🏍️</span>
+      <h4>Entrega rápida</h4>
+      <p>Tu pedido llega sin esperar</p>
+    </div>
+    <div class="feature">
+      <span class="feature-icon">✅</span>
+      <h4>Calidad real</h4>
+      <p>Productos originales y seleccionados</p>
+    </div>
+    <div class="feature">
+      <span class="feature-icon">💬</span>
+      <h4>Atención directa</h4>
+      <p>Te respondemos por WhatsApp al toque</p>
+    </div>
+  </section>
+
+  <section id="catalogo" class="catalog">
+    <div class="catalog-header">
+      <span class="section-tag">EL CATÁLOGO</span>
+      <h2>Dale sin <span class="gradient-text">miedo</span></h2>
+      <p>Elige una categoría y mira lo que hay</p>
+    </div>
+
+    <div class="category-grid" id="category-grid"></div>
+
+    <div class="category-view" id="category-view" hidden>
+      <button class="btn btn-back" id="back-btn">← Volver a categorías</button>
+      <h3 class="category-title" id="category-title"></h3>
+      <p class="category-count" id="category-count"></p>
+      <p class="category-genders" id="category-genders"></p>
+      <div class="product-grid" id="product-grid"></div>
+    </div>
+  </section>
+
+  <section id="contacto" class="contact">
+    <span class="section-tag">PEDIDOS</span>
+    <h2>¿Listo para <span class="gradient-text">pedir?</span></h2>
+    <p>Escríbenos por WhatsApp, te respondemos al toque.</p>
+    <a href="https://wa.me/573142640913?text=Hola!%20Quiero%20hacer%20un%20pedido." target="_blank" rel="noopener" class="btn btn-whatsapp btn-lg">Pedir por WhatsApp</a>
+  </section>
+
+  <footer class="footer">
+    <p class="footer-tag">Mi flow no creo que venga en tu medida</p>
+    <p>Sebastian Orozco Gomez</p>
+  </footer>
+
+  <a href="https://wa.me/573142640913" target="_blank" rel="noopener" class="whatsapp-float" aria-label="WhatsApp">
+    <svg viewBox="0 0 32 32" width="28" height="28" fill="#fff"><path d="M16 3C9.4 3 4 8.4 4 15c0 2.1.6 4.2 1.7 6L4 29l8.2-1.7c1.7.9 3.6 1.4 5.8 1.4 6.6 0 12-5.4 12-12S22.6 3 16 3zm0 21.8c-1.8 0-3.5-.5-5-1.4l-.4-.2-4.9 1 1-4.7-.2-.4c-1-1.6-1.5-3.4-1.5-5.2 0-5.3 4.4-9.7 9.8-9.7 5.4 0 9.8 4.4 9.8 9.8s-4.4 9.8-9.8 9.8zm5.4-7.3c-.3-.1-1.8-.9-2-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-.3-.1-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6l.5-.5c.1-.2.2-.3.3-.5.1-.2 0-.4 0-.5l-1-2.3c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.1.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.1-.1-.3-.2-.6-.3z"/></svg>
+  </a>
+
+  <div class="modal" id="modal" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-card">
+      <button class="modal-close" data-close aria-label="Cerrar">×</button>
+      <div class="modal-image-wrap">
+        <img id="modal-image" alt="Producto">
+        <span class="modal-category modal-category-overlay" id="modal-category-overlay"></span>
+      </div>
+      <div class="modal-body">
+        <h3 id="modal-name"></h3>
+        <div class="modal-tags">
+          <span class="modal-category" id="modal-category"></span>
+        </div>
+        <p class="modal-description" id="modal-description"></p>
+        <a id="modal-order" class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener">
+          <svg viewBox="0 0 32 32" width="20" height="20" fill="#fff" style="vertical-align:-4px;margin-right:8px"><path d="M16 3C9.4 3 4 8.4 4 15c0 2.1.6 4.2 1.7 6L4 29l8.2-1.7c1.7.9 3.6 1.4 5.8 1.4 6.6 0 12-5.4 12-12S22.6 3 16 3zm0 21.8c-1.8 0-3.5-.5-5-1.4l-.4-.2-4.9 1 1-4.7-.2-.4c-1-1.6-1.5-3.4-1.5-5.2 0-5.3 4.4-9.7 9.8-9.7 5.4 0 9.8 4.4 9.8 9.8s-4.4 9.8-9.8 9.8zm5.4-7.3c-.3-.1-1.8-.9-2-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-.3-.1-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6l.5-.5c.1-.2.2-.3.3-.5.1-.2 0-.4 0-.5l-1-2.3c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.1.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.1-.1-.3-.2-.6-.3z"/></svg>
+          Pedir este producto
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <script src="products.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
