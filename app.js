@@ -89,7 +89,7 @@ function openCategory(cat) {
         <div class="card-actions">
           <button class="btn btn-primary btn-sm" data-view="${p.id}">Ver</button>
           <a class="btn btn-whatsapp btn-sm" target="_blank" rel="noopener"
-             href="${waLink(`Hola! Quiero pedir el producto: ${p.name} (${categoryLabel(p.category)})`)}">
+             href="${waLink(`Hola! Me interesa este producto de tu tienda: ${p.name} (${categoryLabel(p.category)})`)}">
             Pedir
           </a>
         </div>
@@ -121,7 +121,7 @@ function openModal(p) {
   modalCategory.textContent = categoryLabel(p.category);
   modalCategoryOverlay.textContent = categoryLabel(p.category);
   modalDescription.textContent = p.description;
-  modalOrder.href = waLink(`Hola! Quiero pedir el producto: ${p.name} (${categoryLabel(p.category)})`);
+  modalOrder.href = waLink(`Hola! Me interesa este producto de tu tienda: ${p.name} (${categoryLabel(p.category)})`);
   modal.hidden = false;
   document.body.style.overflow = 'hidden';
 }
