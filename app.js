@@ -108,9 +108,9 @@ function openCategory(cat) {
 }
 
 function scrollToProducts() {
-  const el = document.getElementById('catalogo');
+  const el = document.getElementById('product-grid');
   if (!el) return;
-  const top = el.getBoundingClientRect().top + window.scrollY - 64;
+  const top = el.getBoundingClientRect().top + window.scrollY;
   window.scrollTo(0, Math.max(top, 0));
 }
 
