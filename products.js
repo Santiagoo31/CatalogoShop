@@ -916,7 +916,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño clásico y materiales resistentes, perfecto para el día a día.",
+    "description": "Tenis con diseño moderno, ideal para caminar todo el día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0124.jpg"
   },
   {
@@ -924,7 +924,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño deportivo y materiales resistentes, perfecto para el día a día.",
+    "description": "Tenis con diseño moderno, combinable con cualquier look.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0125.jpg"
   },
   {
@@ -932,7 +932,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño urbano y materiales resistentes, perfecto para el día a día.",
+    "description": "Tenis con diseño moderno, ideal para cualquier salida.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0126.jpg"
   },
   {
@@ -940,7 +940,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño moderno y materiales resistentes, perfecto para el día a día.",
+    "description": "Tenis con diseño elegante, combinable con cualquier look.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0127.jpg"
   },
   {
@@ -948,7 +948,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño casual y materiales resistentes, perfecto para el día a día.",
+    "description": "Tenis con diseño elegante, ideal para cualquier salida.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0128.jpg"
   },
   {
@@ -956,7 +956,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño elegante y materiales resistentes, perfecto para el día a día.",
+    "description": "Tenis con diseño cómodo, ideal para salir a cualquier hora.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0129.jpg"
   },
   {
@@ -964,7 +964,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño versátil y materiales resistentes, perfecto para el día a día.",
+    "description": "Tenis con diseño cómodo, perfecto para andar con estilo.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0130.jpg"
   },
   {
@@ -972,7 +972,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño resistente y materiales resistentes, perfecto para el día a día.",
+    "description": "Tenis con diseño casual, ideal para salir a cualquier hora.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0131.jpg"
   },
   {
@@ -980,7 +980,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño sencillo y materiales resistentes, perfecto para el día a día.",
+    "description": "Tenis con diseño casual, perfecto para andar con estilo.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0132.jpg"
   },
   {
@@ -988,7 +988,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño cómodo y materiales resistentes, perfecto para el día a día.",
+    "description": "Tenis con diseño versátil, ideal para salir a cualquier hora.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0133.jpg"
   },
   {
@@ -996,7 +996,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño juvenil y materiales resistentes, perfecto para el día a día.",
+    "description": "Tenis con diseño versátil, perfecto para andar con estilo.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0134.jpg"
   },
   {
@@ -1004,7 +1004,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño llamativo y materiales resistentes, perfecto para el día a día.",
+    "description": "Tenis con diseño juvenil, estilo para todos los días.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0135.jpg"
   },
   {
@@ -1012,7 +1012,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño clásico y materiales transpirables, perfecto para el día a día.",
+    "description": "Tenis con diseño juvenil, ideal para la calle o el gym.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0136.jpg"
   },
   {
@@ -1020,7 +1020,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño deportivo y materiales transpirables, perfecto para el día a día.",
+    "description": "Tenis con diseño deportivo, estilo para todos los días.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0137.jpg"
   },
   {
@@ -1028,7 +1028,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño urbano y materiales transpirables, perfecto para el día a día.",
+    "description": "Tenis con diseño deportivo, ideal para la calle o el gym.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0138.jpg"
   },
   {
@@ -1036,7 +1036,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño moderno y materiales transpirables, perfecto para el día a día.",
+    "description": "Tenis con diseño urbano, comodidad para toda la jornada.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0139.jpg"
   },
   {
@@ -1044,7 +1044,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño casual y materiales transpirables, perfecto para el día a día.",
+    "description": "Tenis con diseño urbano, para todos los días de la semana.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0140.jpg"
   },
   {
@@ -1052,7 +1052,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño elegante y materiales transpirables, perfecto para el día a día.",
+    "description": "Tenis con diseño práctico, estilo para todos los días.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0141.jpg"
   },
   {
@@ -1060,7 +1060,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño versátil y materiales transpirables, perfecto para el día a día.",
+    "description": "Tenis con diseño práctico, para todos los días de la semana.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0142.jpg"
   },
   {
@@ -1068,7 +1068,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño resistente y materiales transpirables, perfecto para el día a día.",
+    "description": "Tenis con diseño ligero, se adapta a cualquier outfit.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0143.jpg"
   },
   {
@@ -1076,7 +1076,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño sencillo y materiales transpirables, perfecto para el día a día.",
+    "description": "Tenis con diseño ligero, listo para cualquier plan.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0144.jpg"
   },
   {
@@ -1084,7 +1084,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño cómodo y materiales transpirables, perfecto para el día a día.",
+    "description": "Tenis con diseño sencillo, se adapta a cualquier outfit.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0145.jpg"
   },
   {
@@ -1092,7 +1092,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño juvenil y materiales transpirables, perfecto para el día a día.",
+    "description": "Tenis con diseño sencillo, listo para cualquier plan.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0146.jpg"
   },
   {
@@ -1100,7 +1100,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño llamativo y materiales transpirables, perfecto para el día a día.",
+    "description": "Tenis con diseño llamativo, se adapta a cualquier outfit.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0147.jpg"
   },
   {
@@ -1108,7 +1108,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño clásico y materiales de buena calidad, perfecto para el día a día.",
+    "description": "Tenis con diseño llamativo, estilo y confort en cada paso.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0148.jpg"
   },
   {
@@ -1116,7 +1116,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño deportivo y materiales de buena calidad, perfecto para el día a día.",
+    "description": "Par de tenis moderno, ideal para caminar todo el día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0149.jpg"
   },
   {
@@ -1124,7 +1124,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño urbano y materiales de buena calidad, perfecto para el día a día.",
+    "description": "Par de tenis moderno, estilo y confort en cada paso.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0150.jpg"
   },
   {
@@ -1132,7 +1132,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño moderno y materiales de buena calidad, perfecto para el día a día.",
+    "description": "Par de tenis elegante, ideal para caminar todo el día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0151.jpg"
   },
   {
@@ -1140,7 +1140,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño casual y materiales de buena calidad, perfecto para el día a día.",
+    "description": "Par de tenis elegante, estilo y confort en cada paso.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0152.jpg"
   },
   {
@@ -1148,7 +1148,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño elegante y materiales de buena calidad, perfecto para el día a día.",
+    "description": "Par de tenis cómodo, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0153.jpg"
   },
   {
@@ -1156,7 +1156,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño versátil y materiales de buena calidad, perfecto para el día a día.",
+    "description": "Par de tenis cómodo, perfecto para el uso diario.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0154.jpg"
   },
   {
@@ -1164,7 +1164,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño resistente y materiales de buena calidad, perfecto para el día a día.",
+    "description": "Par de tenis casual, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0155.jpg"
   },
   {
@@ -1172,7 +1172,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño sencillo y materiales de buena calidad, perfecto para el día a día.",
+    "description": "Par de tenis casual, perfecto para el uso diario.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0156.jpg"
   },
   {
@@ -1180,7 +1180,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño cómodo y materiales de buena calidad, perfecto para el día a día.",
+    "description": "Par de tenis versátil, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0157.jpg"
   },
   {
@@ -1188,7 +1188,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño juvenil y materiales de buena calidad, perfecto para el día a día.",
+    "description": "Par de tenis versátil, perfecto para el uso diario.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0158.jpg"
   },
   {
@@ -1196,7 +1196,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño llamativo y materiales de buena calidad, perfecto para el día a día.",
+    "description": "Par de tenis versátil, ideal para cualquier salida.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0159.jpg"
   },
   {
@@ -1204,7 +1204,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño clásico y materiales flexibles, perfecto para el día a día.",
+    "description": "Par de tenis juvenil, combinable con cualquier look.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0160.jpg"
   },
   {
@@ -1212,7 +1212,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño deportivo y materiales flexibles, perfecto para el día a día.",
+    "description": "Par de tenis juvenil, ideal para cualquier salida.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0161.jpg"
   },
   {
@@ -1220,7 +1220,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño urbano y materiales flexibles, perfecto para el día a día.",
+    "description": "Par de tenis deportivo, ideal para salir a cualquier hora.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0162.jpg"
   },
   {
@@ -1228,7 +1228,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño moderno y materiales flexibles, perfecto para el día a día.",
+    "description": "Par de tenis deportivo, perfecto para andar con estilo.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0163.jpg"
   },
   {
@@ -1236,7 +1236,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño casual y materiales flexibles, perfecto para el día a día.",
+    "description": "Par de tenis urbano, ideal para salir a cualquier hora.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0164.jpg"
   },
   {
@@ -1244,7 +1244,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño elegante y materiales flexibles, perfecto para el día a día.",
+    "description": "Par de tenis urbano, ideal para cualquier salida.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0165.jpg"
   },
   {
@@ -1252,7 +1252,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño versátil y materiales flexibles, perfecto para el día a día.",
+    "description": "Par de tenis práctico, ideal para salir a cualquier hora.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0166.jpg"
   },
   {
@@ -1260,7 +1260,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño resistente y materiales flexibles, perfecto para el día a día.",
+    "description": "Par de tenis práctico, ideal para la calle o el gym.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0167.jpg"
   },
   {
@@ -1268,7 +1268,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño sencillo y materiales flexibles, perfecto para el día a día.",
+    "description": "Par de tenis ligero, estilo para todos los días.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0168.jpg"
   },
   {
@@ -1276,7 +1276,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño cómodo y materiales flexibles, perfecto para el día a día.",
+    "description": "Par de tenis ligero, ideal para la calle o el gym.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0169.jpg"
   },
   {
@@ -1284,7 +1284,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño juvenil y materiales flexibles, perfecto para el día a día.",
+    "description": "Par de tenis sencillo, estilo para todos los días.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0170.jpg"
   },
   {
@@ -1292,7 +1292,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño llamativo y materiales flexibles, perfecto para el día a día.",
+    "description": "Par de tenis sencillo, ideal para la calle o el gym.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0171.jpg"
   },
   {
@@ -1300,7 +1300,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño clásico y materiales duraderos, perfecto para el día a día.",
+    "description": "Par de tenis llamativo, comodidad para toda la jornada.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0172.jpg"
   },
   {
@@ -1308,7 +1308,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño deportivo y materiales duraderos, perfecto para el día a día.",
+    "description": "Par de tenis llamativo, para todos los días de la semana.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0173.jpg"
   },
   {
@@ -1316,7 +1316,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño urbano y materiales duraderos, perfecto para el día a día.",
+    "description": "Tenis moderno de estilo urbano, comodidad para toda la jornada.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0174.jpg"
   },
   {
@@ -1324,7 +1324,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño moderno y materiales duraderos, perfecto para el día a día.",
+    "description": "Tenis moderno de estilo urbano, para todos los días de la semana.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0175.jpg"
   },
   {
@@ -1332,7 +1332,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño casual y materiales duraderos, perfecto para el día a día.",
+    "description": "Tenis elegante de estilo urbano, se adapta a cualquier outfit.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0176.jpg"
   },
   {
@@ -1340,7 +1340,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño elegante y materiales duraderos, perfecto para el día a día.",
+    "description": "Tenis elegante de estilo urbano, listo para cualquier plan.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0177.jpg"
   },
   {
@@ -1348,7 +1348,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño versátil y materiales duraderos, perfecto para el día a día.",
+    "description": "Tenis cómodo de estilo urbano, se adapta a cualquier outfit.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0178.jpg"
   },
   {
@@ -1356,7 +1356,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño resistente y materiales duraderos, perfecto para el día a día.",
+    "description": "Tenis cómodo de estilo urbano, listo para cualquier plan.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0179.jpg"
   },
   {
@@ -1364,7 +1364,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño sencillo y materiales duraderos, perfecto para el día a día.",
+    "description": "Tenis casual de estilo urbano, se adapta a cualquier outfit.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0180.jpg"
   },
   {
@@ -1372,7 +1372,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño cómodo y materiales duraderos, perfecto para el día a día.",
+    "description": "Tenis casual de estilo urbano, estilo y confort en cada paso.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0181.jpg"
   },
   {
@@ -1380,7 +1380,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño juvenil y materiales duraderos, perfecto para el día a día.",
+    "description": "Tenis versátil de estilo urbano, se adapta a cualquier outfit.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0182.jpg"
   },
   {
@@ -1388,7 +1388,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño llamativo y materiales duraderos, perfecto para el día a día.",
+    "description": "Tenis versátil de estilo urbano, estilo y confort en cada paso.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0183.jpg"
   },
   {
@@ -1396,7 +1396,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño clásico y materiales suaves, perfecto para el día a día.",
+    "description": "Tenis juvenil de estilo urbano, ideal para caminar todo el día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0184.jpg"
   },
   {
@@ -1404,7 +1404,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño deportivo y materiales suaves, perfecto para el día a día.",
+    "description": "Tenis juvenil de estilo urbano, estilo y confort en cada paso.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0185.jpg"
   },
   {
@@ -1412,7 +1412,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño urbano y materiales suaves, perfecto para el día a día.",
+    "description": "Tenis deportivo de estilo urbano, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0186.jpg"
   },
   {
@@ -1420,7 +1420,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño moderno y materiales suaves, perfecto para el día a día.",
+    "description": "Tenis deportivo de estilo urbano, perfecto para el uso diario.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0187.jpg"
   },
   {
@@ -1428,7 +1428,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño casual y materiales suaves, perfecto para el día a día.",
+    "description": "Tenis urbano de estilo urbano, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0188.jpg"
   },
   {
@@ -1436,7 +1436,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño elegante y materiales suaves, perfecto para el día a día.",
+    "description": "Tenis urbano de estilo urbano, estilo y confort en cada paso.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0189.jpg"
   },
   {
@@ -1444,7 +1444,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño versátil y materiales suaves, perfecto para el día a día.",
+    "description": "Tenis práctico de estilo urbano, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0190.jpg"
   },
   {
@@ -1452,7 +1452,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño resistente y materiales suaves, perfecto para el día a día.",
+    "description": "Tenis práctico de estilo urbano, combinable con cualquier look.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0191.jpg"
   },
   {
@@ -1460,7 +1460,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño sencillo y materiales suaves, perfecto para el día a día.",
+    "description": "Tenis práctico de estilo urbano, ideal para cualquier salida.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0192.jpg"
   },
   {
@@ -1468,7 +1468,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño cómodo y materiales suaves, perfecto para el día a día.",
+    "description": "Tenis ligero de estilo urbano, combinable con cualquier look.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0193.jpg"
   },
   {
@@ -1476,7 +1476,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño juvenil y materiales suaves, perfecto para el día a día.",
+    "description": "Tenis ligero de estilo urbano, ideal para cualquier salida.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0194.jpg"
   },
   {
@@ -1484,7 +1484,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño llamativo y materiales suaves, perfecto para el día a día.",
+    "description": "Tenis sencillo de estilo urbano, ideal para salir a cualquier hora.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0195.jpg"
   },
   {
@@ -1492,7 +1492,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño clásico y materiales ligeros, perfecto para el día a día.",
+    "description": "Tenis sencillo de estilo urbano, perfecto para andar con estilo.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0196.jpg"
   },
   {
@@ -1500,7 +1500,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño deportivo y materiales ligeros, perfecto para el día a día.",
+    "description": "Tenis llamativo de estilo urbano, ideal para salir a cualquier hora.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0197.jpg"
   },
   {
@@ -1508,7 +1508,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño urbano y materiales ligeros, perfecto para el día a día.",
+    "description": "Tenis llamativo de estilo urbano, perfecto para andar con estilo.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0198.jpg"
   },
   {
@@ -1516,7 +1516,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño moderno y materiales ligeros, perfecto para el día a día.",
+    "description": "Moderno tenis, ideal para salir a cualquier hora.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0199.jpg"
   },
   {
@@ -1524,7 +1524,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño casual y materiales ligeros, perfecto para el día a día.",
+    "description": "Moderno tenis, ideal para la calle o el gym.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0200.jpg"
   },
   {
@@ -1532,7 +1532,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño elegante y materiales ligeros, perfecto para el día a día.",
+    "description": "Elegante tenis, estilo para todos los días.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0201.jpg"
   },
   {
@@ -1540,7 +1540,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño versátil y materiales ligeros, perfecto para el día a día.",
+    "description": "Elegante tenis, ideal para la calle o el gym.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0202.jpg"
   },
   {
@@ -1548,7 +1548,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño resistente y materiales ligeros, perfecto para el día a día.",
+    "description": "Cómodo tenis, estilo para todos los días.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0203.jpg"
   },
   {
@@ -1556,7 +1556,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño sencillo y materiales ligeros, perfecto para el día a día.",
+    "description": "Cómodo tenis, ideal para la calle o el gym.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0204.jpg"
   },
   {
@@ -1564,7 +1564,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño cómodo y materiales ligeros, perfecto para el día a día.",
+    "description": "Casual tenis, comodidad para toda la jornada.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0205.jpg"
   },
   {
@@ -1572,7 +1572,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño juvenil y materiales ligeros, perfecto para el día a día.",
+    "description": "Casual tenis, ideal para la calle o el gym.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0206.jpg"
   },
   {
@@ -1580,7 +1580,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño llamativo y materiales ligeros, perfecto para el día a día.",
+    "description": "Versátil tenis, comodidad para toda la jornada.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0207.jpg"
   },
   {
@@ -1588,7 +1588,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño clásico y materiales reforzados, perfecto para el día a día.",
+    "description": "Versátil tenis, para todos los días de la semana.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0208.jpg"
   },
   {
@@ -1596,7 +1596,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño deportivo y materiales reforzados, perfecto para el día a día.",
+    "description": "Juvenil tenis, comodidad para toda la jornada.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0209.jpg"
   },
   {
@@ -1604,7 +1604,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño urbano y materiales reforzados, perfecto para el día a día.",
+    "description": "Juvenil tenis, listo para cualquier plan.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0210.jpg"
   },
   {
@@ -1612,7 +1612,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño moderno y materiales reforzados, perfecto para el día a día.",
+    "description": "Deportivo tenis, se adapta a cualquier outfit.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0211.jpg"
   },
   {
@@ -1620,7 +1620,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño casual y materiales reforzados, perfecto para el día a día.",
+    "description": "Deportivo tenis, listo para cualquier plan.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0212.jpg"
   },
   {
@@ -1628,7 +1628,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño elegante y materiales reforzados, perfecto para el día a día.",
+    "description": "Urbano tenis, comodidad para toda la jornada.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0213.jpg"
   },
   {
@@ -1636,7 +1636,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño versátil y materiales reforzados, perfecto para el día a día.",
+    "description": "Urbano tenis, estilo y confort en cada paso.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0214.jpg"
   },
   {
@@ -1644,7 +1644,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño resistente y materiales reforzados, perfecto para el día a día.",
+    "description": "Práctico tenis, ideal para caminar todo el día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0215.jpg"
   },
   {
@@ -1652,7 +1652,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño sencillo y materiales reforzados, perfecto para el día a día.",
+    "description": "Práctico tenis, listo para cualquier plan.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0216.jpg"
   },
   {
@@ -1660,7 +1660,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño cómodo y materiales reforzados, perfecto para el día a día.",
+    "description": "Ligero tenis, ideal para caminar todo el día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0217.jpg"
   },
   {
@@ -1668,7 +1668,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño juvenil y materiales reforzados, perfecto para el día a día.",
+    "description": "Ligero tenis, estilo y confort en cada paso.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0218.jpg"
   },
   {
@@ -1676,7 +1676,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño llamativo y materiales reforzados, perfecto para el día a día.",
+    "description": "Sencillo tenis, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0219.jpg"
   },
   {
@@ -1684,7 +1684,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño clásico y materiales resistentes, perfecto para el trabajo.",
+    "description": "Sencillo tenis, perfecto para el uso diario.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0220.jpg"
   },
   {
@@ -1692,7 +1692,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño deportivo y materiales resistentes, perfecto para el trabajo.",
+    "description": "Llamativo tenis, perfecto para el día a día.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0221.jpg"
   },
   {
@@ -1700,7 +1700,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Hombre",
     "gender": "Hombre",
-    "description": "Calzado con diseño urbano y materiales resistentes, perfecto para el trabajo.",
+    "description": "Llamativo tenis, perfecto para el uso diario.",
     "image": "Zapatos-Hombre/IMG-20260817-WA0222.jpg"
   },
   {
@@ -1708,7 +1708,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis moderno, con suela resistente, perfecto para el día a día.",
+    "description": "Tenis con diseño moderno, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0080.jpg"
   },
   {
@@ -1716,7 +1716,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Par de tenis elegante: cordones reforzados y fresco incluso en días calurosos.",
+    "description": "Tenis con diseño moderno, listo para cualquier plan.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0081.jpg"
   },
   {
@@ -1724,7 +1724,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis con puntadas reforzadas, cómodo y listo para la calle o el gym.",
+    "description": "Tenis con diseño elegante, ideal para salir a cualquier hora.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0082.jpg"
   },
   {
@@ -1732,7 +1732,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Casual tenis con detalles en relieve, ideal para salir a cualquier hora.",
+    "description": "Tenis con diseño cómodo, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0083.jpg"
   },
   {
@@ -1740,7 +1740,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis versátil, con combinación de colores, comodidad para toda la jornada.",
+    "description": "Tenis con diseño cómodo, para todos los días de la semana.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0084.jpg"
   },
   {
@@ -1748,7 +1748,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Par de tenis juvenil: plantilla acolchada y estilo y confort en cada paso.",
+    "description": "Tenis con diseño casual, combinable con cualquier look.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0085.jpg"
   },
   {
@@ -1756,7 +1756,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis con acabados en contraste, deportivo y aguanta el uso diario sin problema.",
+    "description": "Tenis con diseño versátil, ideal para caminar todo el día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0086.jpg"
   },
   {
@@ -1764,7 +1764,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Urbano tenis con silueta limpia y definida, ideal para caminar todo el día.",
+    "description": "Tenis con diseño versátil, ideal para la calle o el gym.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0087.jpg"
   },
   {
@@ -1772,7 +1772,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis práctico, con costuras a la vista, combinable con cualquier look.",
+    "description": "Tenis con diseño juvenil, combinable con cualquier look.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0088.jpg"
   },
   {
@@ -1780,7 +1780,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Par de tenis ligero: tela suave al tacto y se adapta a cualquier outfit.",
+    "description": "Tenis con diseño deportivo, se adapta a cualquier outfit.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0089.jpg"
   },
   {
@@ -1788,7 +1788,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis con corte en malla transpirable, fresco y para pisar fuerte todo el día.",
+    "description": "Tenis con diseño deportivo, perfecto para andar con estilo.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0090.jpg"
   },
   {
@@ -1796,7 +1796,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Resistente tenis con material transpirable, estilo urbano para todos los días.",
+    "description": "Tenis con diseño urbano, perfecto para el uso diario.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0091.jpg"
   },
   {
@@ -1804,7 +1804,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis moderno, con toques de color llamativo, perfecto para el día a día.",
+    "description": "Tenis con diseño práctico, comodidad para toda la jornada.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0092.jpg"
   },
   {
@@ -1812,7 +1812,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Par de tenis elegante: tope trasero reforzado y fresco incluso en días calurosos.",
+    "description": "Tenis con diseño práctico, perfecto para andar con estilo.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0093.jpg"
   },
   {
@@ -1820,7 +1820,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis con suela resistente, cómodo y listo para la calle o el gym.",
+    "description": "Tenis con diseño ligero, estilo y confort en cada paso.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0093(1).jpg"
   },
   {
@@ -1828,7 +1828,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Casual tenis con cordones reforzados, ideal para salir a cualquier hora.",
+    "description": "Tenis con diseño sencillo, estilo para todos los días.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0094.jpg"
   },
   {
@@ -1836,7 +1836,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis versátil, con puntadas reforzadas, comodidad para toda la jornada.",
+    "description": "Tenis con diseño sencillo, ideal para cualquier salida.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0095.jpg"
   },
   {
@@ -1844,7 +1844,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Par de tenis juvenil: detalles en relieve y estilo y confort en cada paso.",
+    "description": "Tenis con diseño llamativo, listo para cualquier plan.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0096.jpg"
   },
   {
@@ -1852,7 +1852,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis con combinación de colores, deportivo y aguanta el uso diario sin problema.",
+    "description": "Par de tenis moderno, estilo para todos los días.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0096(1).jpg"
   },
   {
@@ -1860,7 +1860,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Urbano tenis con plantilla acolchada, ideal para caminar todo el día.",
+    "description": "Par de tenis elegante, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0097.jpg"
   },
   {
@@ -1868,7 +1868,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis práctico, con acabados en contraste, combinable con cualquier look.",
+    "description": "Par de tenis elegante, para todos los días de la semana.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0098.jpg"
   },
   {
@@ -1876,7 +1876,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Par de tenis ligero: silueta limpia y definida y se adapta a cualquier outfit.",
+    "description": "Par de tenis cómodo, ideal para salir a cualquier hora.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0098(1).jpg"
   },
   {
@@ -1884,7 +1884,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis con costuras a la vista, fresco y para pisar fuerte todo el día.",
+    "description": "Par de tenis casual, ideal para caminar todo el día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0099.jpg"
   },
   {
@@ -1892,7 +1892,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Resistente tenis con tela suave al tacto, estilo urbano para todos los días.",
+    "description": "Par de tenis casual, para todos los días de la semana.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0100.jpg"
   },
   {
@@ -1900,7 +1900,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis moderno, con corte en malla transpirable, perfecto para el día a día.",
+    "description": "Par de tenis versátil, combinable con cualquier look.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0100(1).jpg"
   },
   {
@@ -1908,7 +1908,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Par de tenis elegante: material transpirable y fresco incluso en días calurosos.",
+    "description": "Par de tenis juvenil, se adapta a cualquier outfit.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0101.jpg"
   },
   {
@@ -1916,7 +1916,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis con toques de color llamativo, cómodo y listo para la calle o el gym.",
+    "description": "Par de tenis juvenil, ideal para la calle o el gym.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0101(1).jpg"
   },
   {
@@ -1924,7 +1924,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Casual tenis con tope trasero reforzado, ideal para salir a cualquier hora.",
+    "description": "Par de tenis deportivo, perfecto para el uso diario.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0102.jpg"
   },
   {
@@ -1932,7 +1932,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis versátil, con suela resistente, comodidad para toda la jornada.",
+    "description": "Par de tenis urbano, se adapta a cualquier outfit.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0102(1).jpg"
   },
   {
@@ -1940,7 +1940,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Par de tenis juvenil: cordones reforzados y estilo y confort en cada paso.",
+    "description": "Par de tenis urbano, perfecto para andar con estilo.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0103.jpg"
   },
   {
@@ -1948,7 +1948,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis con puntadas reforzadas, deportivo y aguanta el uso diario sin problema.",
+    "description": "Par de tenis práctico, estilo y confort en cada paso.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0103(1).jpg"
   },
   {
@@ -1956,7 +1956,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Urbano tenis con detalles en relieve, ideal para caminar todo el día.",
+    "description": "Par de tenis ligero, comodidad para toda la jornada.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0104.jpg"
   },
   {
@@ -1964,7 +1964,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis práctico, con combinación de colores, combinable con cualquier look.",
+    "description": "Par de tenis ligero, ideal para cualquier salida.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0105.jpg"
   },
   {
@@ -1972,7 +1972,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Par de tenis ligero: plantilla acolchada y se adapta a cualquier outfit.",
+    "description": "Par de tenis sencillo, estilo y confort en cada paso.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0105(1).jpg"
   },
   {
@@ -1980,7 +1980,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis con acabados en contraste, fresco y para pisar fuerte todo el día.",
+    "description": "Par de tenis llamativo, estilo para todos los días.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0106.jpg"
   },
   {
@@ -1988,7 +1988,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Resistente tenis con silueta limpia y definida, estilo urbano para todos los días.",
+    "description": "Tenis moderno de estilo urbano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0106(1).jpg"
   },
   {
@@ -1996,7 +1996,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis moderno, con costuras a la vista, perfecto para el día a día.",
+    "description": "Tenis moderno de estilo urbano, listo para cualquier plan.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0107.jpg"
   },
   {
@@ -2004,7 +2004,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Par de tenis elegante: tela suave al tacto y fresco incluso en días calurosos.",
+    "description": "Tenis elegante de estilo urbano, ideal para salir a cualquier hora.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0107(1).jpg"
   },
   {
@@ -2012,7 +2012,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis con corte en malla transpirable, cómodo y listo para la calle o el gym.",
+    "description": "Tenis cómodo de estilo urbano, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0108.jpg"
   },
   {
@@ -2020,7 +2020,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Casual tenis con material transpirable, ideal para salir a cualquier hora.",
+    "description": "Tenis cómodo de estilo urbano, para todos los días de la semana.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0108(1).jpg"
   },
   {
@@ -2028,7 +2028,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis versátil, con toques de color llamativo, comodidad para toda la jornada.",
+    "description": "Tenis casual de estilo urbano, combinable con cualquier look.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0109.jpg"
   },
   {
@@ -2036,7 +2036,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Par de tenis juvenil: tope trasero reforzado y estilo y confort en cada paso.",
+    "description": "Tenis versátil de estilo urbano, ideal para caminar todo el día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0109(1).jpg"
   },
   {
@@ -2044,7 +2044,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis con suela resistente, deportivo y aguanta el uso diario sin problema.",
+    "description": "Tenis versátil de estilo urbano, ideal para la calle o el gym.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0110.jpg"
   },
   {
@@ -2052,7 +2052,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Urbano tenis con cordones reforzados, ideal para caminar todo el día.",
+    "description": "Tenis juvenil de estilo urbano, combinable con cualquier look.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0110(1).jpg"
   },
   {
@@ -2060,7 +2060,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis práctico, con puntadas reforzadas, combinable con cualquier look.",
+    "description": "Tenis deportivo de estilo urbano, se adapta a cualquier outfit.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0111.jpg"
   },
   {
@@ -2068,7 +2068,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Par de tenis ligero: detalles en relieve y se adapta a cualquier outfit.",
+    "description": "Tenis deportivo de estilo urbano, perfecto para andar con estilo.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0111(1).jpg"
   },
   {
@@ -2076,7 +2076,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis con combinación de colores, fresco y para pisar fuerte todo el día.",
+    "description": "Tenis urbano de estilo urbano, perfecto para el uso diario.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0112.jpg"
   },
   {
@@ -2084,7 +2084,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Resistente tenis con plantilla acolchada, estilo urbano para todos los días.",
+    "description": "Tenis práctico de estilo urbano, comodidad para toda la jornada.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0112(1).jpg"
   },
   {
@@ -2092,7 +2092,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis moderno, con acabados en contraste, perfecto para el día a día.",
+    "description": "Tenis práctico de estilo urbano, perfecto para andar con estilo.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0113.jpg"
   },
   {
@@ -2100,7 +2100,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Par de tenis elegante: silueta limpia y definida y fresco incluso en días calurosos.",
+    "description": "Tenis ligero de estilo urbano, estilo y confort en cada paso.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0113(1).jpg"
   },
   {
@@ -2108,7 +2108,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis con costuras a la vista, cómodo y listo para la calle o el gym.",
+    "description": "Tenis sencillo de estilo urbano, estilo para todos los días.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0114.jpg"
   },
   {
@@ -2116,7 +2116,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Casual tenis con tela suave al tacto, ideal para salir a cualquier hora.",
+    "description": "Tenis sencillo de estilo urbano, ideal para cualquier salida.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0114(1).jpg"
   },
   {
@@ -2124,7 +2124,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis versátil, con corte en malla transpirable, comodidad para toda la jornada.",
+    "description": "Tenis llamativo de estilo urbano, listo para cualquier plan.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0115.jpg"
   },
   {
@@ -2132,7 +2132,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Par de tenis juvenil: material transpirable y estilo y confort en cada paso.",
+    "description": "Moderno tenis, estilo para todos los días.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0115(1).jpg"
   },
   {
@@ -2140,7 +2140,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis con toques de color llamativo, deportivo y aguanta el uso diario sin problema.",
+    "description": "Elegante tenis, perfecto para el día a día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0116.jpg"
   },
   {
@@ -2148,7 +2148,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Urbano tenis con tope trasero reforzado, ideal para caminar todo el día.",
+    "description": "Elegante tenis, para todos los días de la semana.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0116(1).jpg"
   },
   {
@@ -2156,7 +2156,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis práctico, con suela resistente, combinable con cualquier look.",
+    "description": "Cómodo tenis, ideal para salir a cualquier hora.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0117.jpg"
   },
   {
@@ -2164,7 +2164,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Par de tenis ligero: cordones reforzados y se adapta a cualquier outfit.",
+    "description": "Casual tenis, ideal para caminar todo el día.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0117(1).jpg"
   },
   {
@@ -2172,7 +2172,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis con puntadas reforzadas, fresco y para pisar fuerte todo el día.",
+    "description": "Casual tenis, para todos los días de la semana.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0118.jpg"
   },
   {
@@ -2180,7 +2180,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Resistente tenis con detalles en relieve, estilo urbano para todos los días.",
+    "description": "Versátil tenis, combinable con cualquier look.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0118(1).jpg"
   },
   {
@@ -2188,7 +2188,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis moderno, con combinación de colores, perfecto para el día a día.",
+    "description": "Juvenil tenis, se adapta a cualquier outfit.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0119.jpg"
   },
   {
@@ -2196,7 +2196,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Par de tenis elegante: plantilla acolchada y fresco incluso en días calurosos.",
+    "description": "Juvenil tenis, ideal para la calle o el gym.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0119(1).jpg"
   },
   {
@@ -2204,7 +2204,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis con acabados en contraste, cómodo y listo para la calle o el gym.",
+    "description": "Deportivo tenis, perfecto para el uso diario.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0120.jpg"
   },
   {
@@ -2212,7 +2212,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Casual tenis con silueta limpia y definida, ideal para salir a cualquier hora.",
+    "description": "Urbano tenis, se adapta a cualquier outfit.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0120(1).jpg"
   },
   {
@@ -2220,7 +2220,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis versátil, con costuras a la vista, comodidad para toda la jornada.",
+    "description": "Urbano tenis, perfecto para andar con estilo.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0121.jpg"
   },
   {
@@ -2228,7 +2228,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Par de tenis juvenil: tela suave al tacto y estilo y confort en cada paso.",
+    "description": "Práctico tenis, estilo y confort en cada paso.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0121(1).jpg"
   },
   {
@@ -2236,7 +2236,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis con corte en malla transpirable, deportivo y aguanta el uso diario sin problema.",
+    "description": "Ligero tenis, comodidad para toda la jornada.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0122.jpg"
   },
   {
@@ -2244,7 +2244,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Urbano tenis con material transpirable, ideal para caminar todo el día.",
+    "description": "Ligero tenis, ideal para cualquier salida.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0122(1).jpg"
   },
   {
@@ -2252,7 +2252,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Tenis práctico, con toques de color llamativo, combinable con cualquier look.",
+    "description": "Sencillo tenis, estilo y confort en cada paso.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0123.jpg"
   },
   {
@@ -2260,7 +2260,7 @@ var PRODUCTS_DATA = [
     "name": "Producto 20260817",
     "category": "Zapatos-Mujer",
     "gender": "Mujer",
-    "description": "Par de tenis ligero: tope trasero reforzado y se adapta a cualquier outfit.",
+    "description": "Llamativo tenis, estilo para todos los días.",
     "image": "Zapatos-Mujer/IMG-20260817-WA0123(1).jpg"
   }
 ];
