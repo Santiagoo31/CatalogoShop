@@ -356,6 +356,7 @@ img { max-width: 100%; display: block; }
   max-width: 1200px;
   margin: 0 auto;
   padding: 70px 24px 40px;
+  scroll-margin-top: 64px;
 }
 
 .catalog-header { text-align: center; margin-bottom: 30px; }

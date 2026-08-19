@@ -104,7 +104,14 @@ function openCategory(cat) {
     });
   });
 
-  document.getElementById('catalogo').scrollIntoView({ behavior: 'smooth' });
+  setTimeout(() => scrollToProducts(), 60);
+}
+
+function scrollToProducts() {
+  const el = document.getElementById('catalogo');
+  if (!el) return;
+  const top = el.getBoundingClientRect().top + window.scrollY - 64;
+  window.scrollTo({ top: Math.max(top, 0), behavior: 'smooth' });
 }
 
 function openModal(p) {
