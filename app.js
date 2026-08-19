@@ -111,7 +111,7 @@ function scrollToProducts() {
   const el = document.getElementById('catalogo');
   if (!el) return;
   const top = el.getBoundingClientRect().top + window.scrollY - 64;
-  window.scrollTo({ top: Math.max(top, 0), behavior: 'smooth' });
+  window.scrollTo(0, Math.max(top, 0));
 }
 
 function openModal(p) {
